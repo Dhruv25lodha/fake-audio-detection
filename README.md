@@ -88,5 +88,5 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 
 ---
 
-## **Flowchart
-
+## Flowchart
+![Flowchart](8bb092e4803d1672544c7fc7bb7354a5844cbf59452d31847c5f3da3b61473a5.png)
